@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil!!
-Oie, me chamo Vinicius e estou aprendendo programação.<br>
-Estou em busca de novas oportunidades empregatícias.<br>
+Me chamo Vinicius e estou aprendendo programar.<br>
+Estou em busca de novas oportunidades no ramo da programação.<br>
 Curso Ciência da Computação pela Anhanguera.<br>
 
 <hr>
