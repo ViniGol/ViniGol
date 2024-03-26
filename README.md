@@ -1,4 +1,4 @@
-# Bem vindo ao meu perfil 🤓
+# Bem vindo ao meu perfil!!
 Oie, me chamo Vinicius e estou aprendendo programação.<br>
 Estou em busca de novas oportunidades empregatícias.<br>
 Curso Ciência da Computação pela Anhanguera.<br>
